@@ -7,13 +7,12 @@
 [![LICENSE](https://img.shields.io/github/license/xinntao/facexlib.svg)](https://github.com/xinntao/facexlib/blob/master/LICENSE)
 [![python lint](https://github.com/xinntao/facexlib/actions/workflows/pylint.yml/badge.svg)](https://github.com/xinntao/facexlib/blob/master/.github/workflows/pylint.yml)
 [![Publish-pip](https://github.com/xinntao/facexlib/actions/workflows/publish-pip.yml/badge.svg)](https://github.com/xinntao/facexlib/blob/master/.github/workflows/publish-pip.yml)
-[![gitee mirror](https://github.com/xinntao/facexlib/actions/workflows/gitee-mirror.yml/badge.svg)](https://github.com/xinntao/facexlib/blob/master/.github/workflows/gitee-mirror.yml)
 
-[English](README.md) **|** [简体中文](README_CN.md) &emsp; [GitHub](https://github.com/xinntao/facexlib) **|** [Gitee码云](https://gitee.com/xinntao/facexlib)
+[English](README.md) **|** [简体中文](README_CN.md)
 
 ---
 
-**facexlib** aims at providing ready-to-use **face-related** functions based on current STOA open-source methods. <br>
+**facexlib** aims at providing ready-to-use **face-related** functions based on current SOTA open-source methods. <br>
 Only PyTorch reference codes are available. For training or fine-tuning, please refer to their original repositories listed below. <br>
 Note that we just provide a collection of these algorithms. You need to refer to their original LICENCEs for your intended use.
 
